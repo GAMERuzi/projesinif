@@ -1,0 +1,9 @@
+oyun/
+├── index.html
+├── script.js
+├── images/
+│   └── karakter.png
+├── sounds/
+│   └── dogru.mp3
+└── music/
+    └── arkaplan.mp3
